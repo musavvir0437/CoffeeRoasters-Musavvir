@@ -7,6 +7,7 @@
   --accent-color-light-brown: #c99b67;
   --accent-color-light-brown-80: rgba(201, 155, 103, 0.8);
   --accent-color-light-brown-80: rgba(201, 155, 103, 0.6);
+  --light-brown: #f3d7b7;
   --outline-color: var(--accent-color-green);
 }
 
@@ -144,6 +145,7 @@ img {
 
 /* SITE-HEADER-INTRO-WRAPPER */
 .site-header-hero-wrapper {
+  background-color: var(--light-brown);
   background-image: url("../img/light-bg-img.jpg");
 }
 
